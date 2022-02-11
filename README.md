@@ -1,4 +1,4 @@
-# theodinrecepies
+# theodinrecipes
 
 ## The Odin Project HTML Project
 
